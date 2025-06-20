@@ -1,4 +1,4 @@
-Live link - [[[harshwardhan.tech](https://www.harshwardhan.tech/)
+Live link - [harshwardhan.tech](https://www.harshwardhan.tech/)
 
 steps: 
 
